@@ -2,7 +2,7 @@
 
 # Hi, I'm Kaveesh 👋
 
-**DevOps & Cloud Engineer | Software Developer | Automation Enthusiast**
+** Software Developer | Automation Enthusiast | Cloud Enthusiast**
 
 ---
 
