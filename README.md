@@ -2,7 +2,7 @@
 
 # Hi, I'm Kaveesh 👋
 
-** Software Developer | Automation Enthusiast | Cloud Enthusiast**
+Software Developer | Automation Enthusiast | Cloud Enthusiast
 
 ---
 
@@ -27,9 +27,9 @@ I'm a motivated Computer Science graduate with a passion for DevOps, Cloud Engin
 
 ## 📂 My Projects
 
-* Automatic Infographic Generator – Converts agricultural text into visual infographics using Python, NLP, and Matplotlib
-* Ride-Sharing App (Uni Cabs) – Flutter app connecting university students for shared rides
-* E-Commerce & Management Systems – Full-stack web apps using React, PHP, MySQL, MongoDB
+Automatic Infographic Generator – Converts agricultural text into visual infographics using Python, NLP, and Matplotlib
+Ride-Sharing App (Uni Cabs) – Flutter app connecting university students for shared rides
+E-Commerce & Management Systems – Full-stack web apps using React, PHP, MySQL, MongoDB
 
 (More projects in [https://github.com/Kaveeshdil?tab=repositories])
 
@@ -45,9 +45,10 @@ I'm a motivated Computer Science graduate with a passion for DevOps, Cloud Engin
 
 ## 📫 Connect with Me
 
-* LinkedIn: [ https://www.linkedin.com/in/kaveesh-dilhara-jayamini-gunasekara-236621197/]
-* GitHub: [ https://github.com/Kaveeshdil]
-* Email: [ kaveeshdil@gmail.com]
+LinkedIn: [ https://www.linkedin.com/in/kaveesh-dilhara-jayamini-gunasekara-236621197/]
+GitHub: [ https://github.com/Kaveeshdil]
+Email: [ kaveeshdil@gmail.com]
+Portpolio: [ www.kaveeshgunasekara.tech ]
 
 ---
 
